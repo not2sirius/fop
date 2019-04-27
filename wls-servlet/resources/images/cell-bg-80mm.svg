@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="80mm" height="10mm" xmlns="http://www.w3.org/2000/svg">
+	<line y2="1000%" x2="0%" y1="0%" x1="0%" stroke-width="0.5px" stroke="#000000" fill="none"/>
+	<line y2="1000%" x2="25%" y1="0%" x1="25%" stroke-width="0.5px" stroke="#000000" fill="none"/>
+	<!-- <line y2="1000%" x2="50%" y1="0%" x1="50%" stroke-width="0.5px" stroke="#000000" fill="none"/> -->
+	<line y2="1000%" x2="75%" y1="0%" x1="75%" stroke-width="0.5px" stroke="#000000" fill="none"/>
+	<line y2="1000%" x2="100%" y1="0%" x1="100%" stroke-width="0.5px" stroke="#000000" fill="none"/>
+</svg>

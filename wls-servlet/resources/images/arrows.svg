@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1"
+     id="Layer_1"
+     x="0px"
+     y="0px"
+     viewBox="0 0 120.6 131.18048"
+     xml:space="preserve"
+     inkscape:version="0.48.5 r10040"
+     width="100%"
+     height="100%"
+     sodipodi:docname="arrows.svg"><metadata
+     id="metadata3005"><rdf:RDF><cc:Work
+             rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+                 rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs3003" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="877"
+     id="namedview3001"
+     showgrid="false"
+     units="in"
+     inkscape:document-units="in"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.2979798"
+     inkscape:cx="63.000003"
+     inkscape:cy="69.000002"
+     inkscape:window-x="2017"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+<polygon
+     style="fill:#131b46"
+     points="275.198,387.244 243,418.659 258.707,418.659 258.707,465 290.905,465 290.905,419.445 306.608,419.445 "
+     id="polygon2997"
+     transform="matrix(0.94798649,0,0,0.94798649,-230.36072,-309.63324)" />
+<polygon
+     style="fill:#0c88a4"
+     points="370.217,358.822 338.805,326.622 306.608,358.036 322.315,358.036 322.315,465 354.514,465 354.514,358.822 "
+     id="polygon2999"
+     transform="matrix(0.94798649,0,0,0.94798649,-230.36072,-309.63324)" />
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<fop version="1.0">
+	<strict-validation>false</strict-validation>
+	<base>./</base>
+	<renderers>
+		<renderer mime="application/pdf">
+			<fonts>
+				<!--directory>c:\usr\share\fonts</directory-->
+				<auto-detect/>
+			</fonts>
+		</renderer>
+	</renderers>
+</fop>

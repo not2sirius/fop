@@ -52,7 +52,7 @@
     <module>fop-core</module>
     <module>fop-events</module>
     <module>fop-sandbox</module>
-    <module>fop-servlet</module>
+    <module>wls-servlet</module>
     <module>fop-transcoder</module>
     <module>fop-transcoder-allinone</module>
     <module>fop-util</module>

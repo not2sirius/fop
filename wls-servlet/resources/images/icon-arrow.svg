@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="87" height="86" viewBox="0 0 87 86">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 90px;
+      }
+
+      .cls-2 {
+        fill: #999a9b;
+        text-anchor: middle;
+        font-family: "Linearicons";
+      }
+    </style>
+  </defs>
+  <text x="45" y="81" class="cls-1"><tspan x="45" class="cls-2"></tspan></text>
+</svg>
