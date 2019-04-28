@@ -1,4 +1,7 @@
-FROM tomcat:8.5.39-jre8
+FROM tomcat:8.5-alpine
+
+#https://www.freedesktop.org/wiki/Software/fontconfig/
+RUN apk add --no-cache fontconfig
 
 COPY wls-servlet/resources/fonts/ /usr/share/fonts/
 
